@@ -40,7 +40,8 @@ This project was developed using the following technologies:
 ## License
 
 This project is free to download and modify according to your needs. It was primarily developed for educational purposes.
-https://ankit8652.github.io/Parking-Lot-Management-System.github.io/
+Github Pages:- https://ankit8652.github.io/Parking-Lot-Management-System.github.io/
+Netlify Link :- https://splendorous-brigadeiros-1c2633.netlify.app/
 
 ---
 
